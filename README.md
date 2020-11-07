@@ -33,6 +33,6 @@ just an attempt to implement in python a blockchain structure
         -> hackernoon/ether-purchase-power (cálculos e conteúdos que provam eficácia no sistema)
 
 # Tecnologias
-Python
-Flask
-PyCharm
+- Python
+- Flask
+- PyCharm
